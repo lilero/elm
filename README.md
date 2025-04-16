@@ -9,4 +9,6 @@
 
     model_inf: 经过llama factory微调后的模型推理代码，这里是直接用qwen的方法加载模型进行推理。  
 
-    vllm_model_inf: 部署vllm进行推理加速，径llama factory微调后的模型可以直接进行vllm框架推理。
+    vllm_model_inf: 部署vllm进行推理加速，径llama factory微调后的模型可以直接进行vllm框架推理。  
+
+环境配置可以参考：ele_environment.yaml
