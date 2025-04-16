@@ -1,7 +1,7 @@
 # elm
 饿了么消防隐患识别--qwen2.5vl 7B lora微调， 微调框架--llama factory
 
-项目各文件夹解析：
+项目各文件夹解析：  
     data_aug: 数据增强，对原始图片进行各种增强，比如翻转，色彩抖动等。  
 
     data_process: 视觉大模型数据集处理方法，制作用于训练的数据集格式，采用ShareGpt格式。  
